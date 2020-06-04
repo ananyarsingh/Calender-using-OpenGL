@@ -109,7 +109,7 @@ glutInit(&argc,argv);
 glutInitDisplayMode(GLUT_DOUBLE|GLUT_RGB|GLUT_DEPTH);
 glutInitWindowSize(500,500);
 glutInitWindowPosition(0,0);
-glutCreateWindow("Rectangular Mesh");
+glutCreateWindow("January 2001");
 glutDisplayFunc(display);
 glutReshapeFunc(myReshape);
 //glutIdleFunc(idle);
